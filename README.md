@@ -3,6 +3,8 @@
 Passive OSINT CLI Tool is a command-line interface (CLI) tool designed to perform passive Open Source Intelligence (OSINT) operations. It allows you to search for information about people, usernames, and IP addresses using various sources and techniques.
 The tool is written in Python and uses the `requests` library to make HTTP requests to the target websites.
 The full name search implement a dorking technique to search for the target name in the target website.
+(This project is create for discovery purpose and use a simple dorking technique and web scrapping to search for information. 
+**IT MAY BE IMPRECISE** .)
 ## Installation
 
 ### Prerequisites

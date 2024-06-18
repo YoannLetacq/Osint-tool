@@ -1,0 +1,18 @@
+{
+  "facebook": "https://www.facebook.com/{username}",
+  "twitter": "https://twitter.com/{username}",
+  "linkedin": "https://www.linkedin.com/in/{username}",
+  "instagram": "https://www.instagram.com/{username}",
+  "youtube": "https://www.youtube.com/{username}",
+  "pinterest": "https://www.pinterest.com/{username}",
+  "reddit": "https://www.reddit.com/user/{username}",
+  "tumblr": "https://{username}.tumblr.com",
+  "github": "https://github.com/{username}",
+  "medium": "https://medium.com/@{username}",
+  "quora": "https://www.quora.com/profile/{username}",
+  "tiktok": "https://www.tiktok.com/@{username}",
+  "etsy": "https://www.etsy.com/shop/{username}",
+  "amazon": "https://www.amazon.com/s?field-keywords={username}",
+  "ebay": "https://www.ebay.com/usr/{username}",
+  "shopify": "https://{username}.myshopify.com"
+}

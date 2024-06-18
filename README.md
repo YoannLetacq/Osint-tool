@@ -35,7 +35,8 @@ Or using Git Bash or MinGW.
 
 1. Clone the repository:
 ```sh
-git clone https://github.com/YoannLetacq/basic-osint-tool.git #github
+git clone https://github.com/YoannLetacq/Osint-tool #github
+cd Osint-tool
 
 https://zone01normandie.org/git/yyoannle/passive.git #zone01
 cd passive
@@ -59,7 +60,7 @@ make install
 * `passive -u <USERNAME>`: Search for a username on different social networks.
 * `passive -ip <IPADDRESS>`: Search for information about an IP address.
 
-## Examples
+### Examples
 
 1. Show help message:
 ```sh
